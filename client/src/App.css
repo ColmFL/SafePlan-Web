@@ -1,0 +1,25 @@
+.App {
+  color: #e79a0a;
+  text-align: center;
+  background-color: rgb(68, 49, 175);
+}
+
+.body{
+  color: #e79a0a;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(238, 147, 11);
+}
+
+.App-link {
+  color: #e79a0a;
+}
+
