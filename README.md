@@ -6,3 +6,9 @@ The system utilises Rest API’s to transfer data from the server side to the cl
 Authentication is a central feature as security is paramount. The user credentials are stored on another MongoDB database and compared against user input at the login screen.
 
 MERN: MongoDB, Express JS, React, and Node JS.
+
+## **Motivation**
+
+## **Tech/Frameworks Used**
+
+## **How To Use**
