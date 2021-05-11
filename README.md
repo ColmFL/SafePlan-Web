@@ -14,7 +14,16 @@ The project was also tremendously useful in working with useful dependencies whi
 
 ## **Tech/Frameworks Used**
 
-**MERN:** MongoDB, Express.js, React, and Node.js.
+**MERN:** 
+**M**ongoDB, 
+Express.js, 
+React, 
+Node.js.
 
+Postman for testing the Rest APIs.
+
+**Key Dependencies:**
+-
+-
 
 ## **How To Use**
