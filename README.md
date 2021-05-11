@@ -1,5 +1,5 @@
 # SafePlan-Web
-A MERN stack web application which pulls data from a database and renders it to the client. The application could be used to track patient data over time. Data can track changes in mood or other mental health indicators as input by a patient. 
+A MERN stack web application which pulls data from a database and renders it to the client. The application could be used to track patient data over time. Data can track changes in mood or other mental health indicators as input by a patient. The system simulates how a clinical psychologist might wish to view patient data. 
 
 The system utilises Rest API’s to transfer data from the server side to the client side and to the database. The data is stored in a MongoDB database.
 
@@ -11,6 +11,9 @@ In developing this application, the motivation was to create a full-stack applic
 technologies involved, but also in a crucial aspect of software development which is linking front-end, back-end, and database via Rest APIs. 
 
 The project was also tremendously useful in working with useful dependencies which boost an applications performance.
+
+The other motive in developing this application was to get into the mind set of the end user and have the considerations of end user experience 
+be a driving force in the development and especially the UI development.
 
 ## **Tech/Frameworks Used**
 
@@ -35,3 +38,6 @@ Postman for testing the Rest APIs.
 -
 
 ## **How To Use**
+
+The application is perfectly simple to use. A user will first encounter the login/registration screen. A user will
+enter details or create an account. They will then see the dashboard with patient data.
