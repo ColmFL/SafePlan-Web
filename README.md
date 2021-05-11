@@ -15,10 +15,10 @@ The project was also tremendously useful in working with useful dependencies whi
 ## **Tech/Frameworks Used**
 
 **MERN:** 
-**M**ongoDB, 
-Express.js, 
-React, 
-Node.js.
+- **M**ongoDB 
+- **E**xpress.js 
+- **R**eact 
+- **N**ode.js
 
 Postman for testing the Rest APIs.
 
