@@ -23,19 +23,31 @@ be a driving force in the development and especially the UI development.
 - **R**eact 
 - **N**ode.js
 
-**M**ongoDB:
+**M**ongoDB: NoSQL database which uses JSON-like documents with optional schemas. 
 
-**E**xpress.js:
+**E**xpress.js: Back-end web application framework for Node.js.
 
-**R**eact:
+**R**eact: Front end, JavaScript library for building user interfaces or UI components.
 
-**N**ode.js:
+**N**ode.js: Back-end JavaScript runtime environment.
 
 Postman for testing the Rest APIs.
 
 **Key Dependencies:**
--
--
+- axios
+- bcryptjs
+- body-parser
+- classnames
+- concurrently
+- jsonwebtoken
+- jwt-decode
+- mongoose
+- passport
+- passport-jwt
+- react-redux
+- react-router-dom
+- redux
+- validator
 
 ## **How To Use**
 
