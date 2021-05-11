@@ -20,6 +20,14 @@ The project was also tremendously useful in working with useful dependencies whi
 - **R**eact 
 - **N**ode.js
 
+**M**ongoDB:
+
+**E**xpress.js:
+
+**R**eact:
+
+**N**ode.js:
+
 Postman for testing the Rest APIs.
 
 **Key Dependencies:**
